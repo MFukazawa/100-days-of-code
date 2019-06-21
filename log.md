@@ -17,6 +17,6 @@
 ### Day 2: 6/21/2019 
 ##### 
 
-**Today's Progress**: Free Code Camp ES6 section
+**Today's Progress**: Free Code Camp ES6 section, mostly through Regex section
 
-**Thoughts:** Need review on getters and setters, as well as more definition memorization for basic components of functions
+**Thoughts:** Need review on getters and setters, as well as more definition memorization for basic components of functions. Instead of waffling about on different resources, I should stick to one source (FCC) for at least until finished with React, so I can go back to Zero to Mastery and hopefully make sense of the Star Wars API project. 
