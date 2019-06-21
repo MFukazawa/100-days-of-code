@@ -14,9 +14,9 @@
 
 **Thoughts:** After going up to React and working back from HTML and CSS, I'm back at Javascript again and realizing the real learning happens when it's hard and I have to grind.  
 
-### Day 1: 6/21/2019 
+### Day 2: 6/21/2019 
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: Free Code Camp ES6 section
 
-**Thoughts:** 
+**Thoughts:** Need review on getters and setters, as well as more definition memorization for basic components of functions
