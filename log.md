@@ -20,3 +20,10 @@
 **Today's Progress**: Free Code Camp ES6 section, mostly through Regex section
 
 **Thoughts:** Need review on getters and setters, as well as more definition memorization for basic components of functions. Instead of waffling about on different resources, I should stick to one source (FCC) for at least until finished with React, so I can go back to Zero to Mastery and hopefully make sense of the Star Wars API project. 
+
+### Day 3: 6/28/2019 
+##### 
+
+**Today's Progress**: Free Code Camp Regex, debugging, started on data structures, CS50 Data Structures
+
+**Thoughts:** After the worst cold of my life and then hand/wrist/leg debilitating symptoms I'm back at the keyboard. How often are Regex actually used for your average web dev? One day at a time- one hour. Put in the work over time to get results.  Signed up for a workshop on tech jobs where I live so I'm excited to meet real people.
