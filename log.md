@@ -27,3 +27,10 @@
 **Today's Progress**: Free Code Camp Regex, debugging, started on data structures, CS50 Data Structures
 
 **Thoughts:** After the worst cold of my life and then hand/wrist/leg debilitating symptoms I'm back at the keyboard. How often are Regex actually used for your average web dev? One day at a time- one hour. Put in the work over time to get results.  Signed up for a workshop on tech jobs where I live so I'm excited to meet real people.
+
+### Day 4: 7/1/2019 
+##### 
+
+**Today's Progress**: Free Code Camp data structures, assemble 3 javascript ideas to teach to mentor
+
+**Thoughts:** Monday Monday back to studying. Worked through data structures and it's clear I've made a lot of progress in understanding objects, arrays, and methods compared to a month ago. My hands aren't healed yet but typing speed is slowly increasing again. In a week it will be 2 months since I began full-time studying. I have come far but there's a LONG way to go. 
