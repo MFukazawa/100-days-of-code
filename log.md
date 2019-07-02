@@ -34,3 +34,11 @@
 **Today's Progress**: Free Code Camp data structures, assemble 3 javascript ideas to teach to mentor
 
 **Thoughts:** Monday Monday back to studying. Worked through data structures and it's clear I've made a lot of progress in understanding objects, arrays, and methods compared to a month ago. My hands aren't healed yet but typing speed is slowly increasing again. In a week it will be 2 months since I began full-time studying. I have come far but there's a LONG way to go. 
+
+### Day 5: 7/2/2019 
+##### 
+
+**Today's Progress**: Free Code Camp basic algorithms, followed up with mentor on javascript ideas
+
+**Thoughts:** Though I had to really think about these algorithms, if I talk out loud (rubber duck debugging) I can logic through a fair bit of the problems. The other piece is exposure to more material so I'm aware of the possibilities for solution. I also checked out Josh Waitzkin x Tim Ferriss's recent discussion today on compressing learning, as well as peeked at The Art of Learning.  By putting in reps and focusing on process over progress I'm doing the right thing. 
+
