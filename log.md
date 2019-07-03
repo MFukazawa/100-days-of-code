@@ -47,5 +47,5 @@
 
 **Today's Progress**: Free Code Camp basic algorithms - finished, began Object Oriented Programming section
 
-**Thoughts:** Algorithms were challenging but after completing the section I think my programmer logic has improved a bit. Now heading into Object Oriented Programming and the concepts are somewhat familiar thanks to Zero to Mastery but the clarification is just what I needed. Onward and upward! 
+**Thoughts:** Algorithms were challenging but after completing the section I think my programmer logic has improved a bit. Now heading into Object Oriented Programming and the concepts are somewhat familiar thanks to Zero to Mastery but the clarification is just what I needed. Onward and upward!   
 
