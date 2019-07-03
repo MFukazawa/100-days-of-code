@@ -42,3 +42,10 @@
 
 **Thoughts:** Though I had to really think about these algorithms, if I talk out loud (rubber duck debugging) I can logic through a fair bit of the problems. The other piece is exposure to more material so I'm aware of the possibilities for solution. I also checked out Josh Waitzkin x Tim Ferriss's recent discussion today on compressing learning, as well as peeked at The Art of Learning.  By putting in reps and focusing on process over progress I'm doing the right thing. 
 
+### Day 6: 7/3/2019 
+##### 
+
+**Today's Progress**: Free Code Camp basic algorithms - finished, began Object Oriented Programming section
+
+**Thoughts:** Algorithms were challenging but after completing the section I think my programmer logic has improved a bit. Now heading into Object Oriented Programming and the concepts are somewhat familiar thanks to Zero to Mastery but the clarification is just what I needed. Onward and upward! 
+
