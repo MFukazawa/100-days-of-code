@@ -49,3 +49,18 @@
 
 **Thoughts:** Algorithms were challenging but after completing the section I think my programmer logic has improved a bit. Now heading into Object Oriented Programming and the concepts are somewhat familiar thanks to Zero to Mastery but the clarification is just what I needed. Onward and upward!   
 
+### Day 7: 7/4/2019 
+##### 
+
+**Today's Progress**: Free Code Camp Object Oriented Programming section mostly done
+
+**Thoughts:** OOP makes sense! Big steps from the beginning.  Ended early for 4th of July.   
+
+### Day 8: 7/5/2019 
+##### 
+
+**Today's Progress**: Free Code Camp Object Oriented Programming section finished, began functional programming
+
+**Thoughts:** Had to renew Visa today so another half day- functional programming is much less intuitive than OOP. It might create less buggy code but it's hurting my brain.  
+
+
