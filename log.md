@@ -63,4 +63,12 @@
 
 **Thoughts:** Had to renew Visa today so another half day- functional programming is much less intuitive than OOP. It might create less buggy code but it's hurting my brain.  
 
+### Day 9: 7/8/2019 
+##### 
+
+**Today's Progress**: Free Code Camp array.prototype.map
+
+**Thoughts:** Lots of life getting in the way of studying recently. Couldn't study much today and map/filter is still really confusing.   
+
+
 
