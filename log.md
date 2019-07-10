@@ -70,5 +70,17 @@
 
 **Thoughts:** Lots of life getting in the way of studying recently. Couldn't study much today and map/filter is still really confusing.   
 
+### Day 10: 7/9/2019 
+##### 
 
+**Today's Progress**: Free Code Camp functional programming complete
+
+**Thoughts:** Although I have a greater understanding than when I started, I'm not there yet. 
+
+### Day 11: 7/10/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms
+
+**Thoughts:** How much of these are memorization? They definitely show the holes in my knowledge. 
 
