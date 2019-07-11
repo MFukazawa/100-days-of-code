@@ -84,3 +84,11 @@
 
 **Thoughts:** How much of these are memorization? They definitely show the holes in my knowledge. 
 
+### Day 12: 7/11/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms continued
+
+**Thoughts:** These algorithms are a slog 
+
+
