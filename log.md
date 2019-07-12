@@ -91,4 +91,10 @@
 
 **Thoughts:** These algorithms are a slog 
 
+### Day 13: 7/12/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms continued
+
+**Thoughts:** More algorithms.  I solved a couple today and was on the right track on another one or two so I feel good about them. 
 
