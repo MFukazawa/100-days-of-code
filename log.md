@@ -65,7 +65,7 @@
 
 ### Day 9: 7/8/2019 
 ##### 
-
+4
 **Today's Progress**: Free Code Camp array.prototype.map
 
 **Thoughts:** Lots of life getting in the way of studying recently. Couldn't study much today and map/filter is still really confusing.   
@@ -97,4 +97,20 @@
 **Today's Progress**: Free Code Camp intermediate algorithms continued
 
 **Thoughts:** More algorithms.  I solved a couple today and was on the right track on another one or two so I feel good about them. 
+
+### Day 14: 7/16/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms continued
+
+**Thoughts:** More algorithms.  I solved a couple today and was on the right track on another one or two so I feel good about them.  Same as day 13.
+
+### Day 15: 7/17/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms continued
+
+**Thoughts:** More algorithms.  Only a few more to go. 
+
+
 
