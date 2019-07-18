@@ -112,5 +112,12 @@
 
 **Thoughts:** More algorithms.  Only a few more to go. 
 
+### Day 16: 7/18/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms continued
+
+**Thoughts:** More algorithms.  Only a few more to go. Make them stop ;_;
+
 
 
