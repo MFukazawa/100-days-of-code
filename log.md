@@ -119,5 +119,12 @@
 
 **Thoughts:** More algorithms.  Only a few more to go. Make them stop ;_;
 
+### Day 17: 7/19/2019 
+##### 
+
+**Today's Progress**: Free Code Camp intermediate algorithms FINISHED - onto the Algorithms and Data structures projects section
+
+**Thoughts:** Finished algorithms at last.  I'm starting to recognize more patterns and it feels less like drinking out of a firehose with all the new information. I solved the first project without any hints but it was a suboptimal solution. Onto the next! I'm almost halfway until I start applying for jobs (unless the event next week results in an offer). I hope I'm doing enough.
+
 
 
