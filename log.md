@@ -126,5 +126,19 @@
 
 **Thoughts:** Finished algorithms at last.  I'm starting to recognize more patterns and it feels less like drinking out of a firehose with all the new information. I solved the first project without any hints but it was a suboptimal solution. Onto the next! I'm almost halfway until I start applying for jobs (unless the event next week results in an offer). I hope I'm doing enough.
 
+### Day 18: 7/22/2019 
+##### 
+
+**Today's Progress**: Free Code Camp Algorithms and Data structures projects section
+
+**Thoughts:** Made modest progress but am relying on hints too much. Even if the thought process is correct, the execution isn't there yet. Took my kid to the doctor early and had to pick up the wife from the airport. 
+
+### Day 19: 7/23/2019 
+##### 
+
+**Today's Progress**: Free Code Camp Algorithms and Data structures projects section continued
+
+**Thoughts:** Essentially the same as the day prior but with more time. On the last project but even though I can conceptualize what I need to do I'm not sure how to do it YET.
+
 
 
