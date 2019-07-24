@@ -140,5 +140,12 @@
 
 **Thoughts:** Essentially the same as the day prior but with more time. On the last project but even though I can conceptualize what I need to do I'm not sure how to do it YET.
 
+### Day 20: 7/24/2019 
+##### 
+
+**Today's Progress**: Free Code Camp Algorithms and Data structures projects section COMPLETE
+
+**Thoughts:** Had to use YouTube sensei to guide me through the last one. Onto the next. 
+
 
 
