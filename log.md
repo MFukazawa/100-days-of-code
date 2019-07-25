@@ -147,5 +147,10 @@
 
 **Thoughts:** Had to use YouTube sensei to guide me through the last one. Onto the next. 
 
+### Day 21: 7/25/2019 
+##### 
 
+**Today's Progress**: Free Code Camp Bootstrap & SASS sections complete. Jquery skipped. React BEGINS. 
+
+**Thoughts:** After finishing the algorithms, it felt great to blast through some sections of FreeCodeCamp. Tomorrow is the job event 2019年度第一回双方コミュニケーション就職説明会. Hopefully the skills I gained in the past couple of months will be enough to hold a conversation about Javascript and my aspirations. Also, beginning the React section of FCC represents the full circle of pausing Zero to Mastery to gain a better grasp of vanilla JS and shared concepts such as closure. I think after completing this I will be ready to tackle that challenge again. Funny how one day with algorithms it can feel hopeless and then the clouds open up after you work through it.  A nice sense of accomplishment and progress :) 
 
