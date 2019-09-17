@@ -154,3 +154,9 @@
 
 **Thoughts:** After finishing the algorithms, it felt great to blast through some sections of FreeCodeCamp. Tomorrow is the job event 2019年度第一回双方コミュニケーション就職説明会. Hopefully the skills I gained in the past couple of months will be enough to hold a conversation about Javascript and my aspirations. Also, beginning the React section of FCC represents the full circle of pausing Zero to Mastery to gain a better grasp of vanilla JS and shared concepts such as closure. I think after completing this I will be ready to tackle that challenge again. Funny how one day with algorithms it can feel hopeless and then the clouds open up after you work through it.  A nice sense of accomplishment and progress :) 
 
+### Day ??: 9/17/2019 
+##### 
+
+**Today's Progress**: Zero to Mastery back-end server section complete 
+
+**Thoughts:** I really fell off the wagon updating this 100 days of code, and should reset. Since that event, I realized I have more to actually create before I'm job ready.  I'm almost finished with the Zero to Mastery course (over 80%), having finally learned to make the api call and connect to the front end.  After that I began making the Smart Brain final project and all I have to do now is complete the database and deploy to heroku. I've also started on my tier 1 Chingu project and nearly completed that within 2 weeks. Next up is my first professional project- a pro bono site. Once I finish the pro bono site, I am going to create my profile website and link all my projects, create the Japanese version, and start applying for jobs. I'm on pace to meet my original goal for application deadline! 
